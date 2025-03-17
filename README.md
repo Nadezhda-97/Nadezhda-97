@@ -11,11 +11,13 @@ I studied programming on the "Hexlet" educational platform. Now I'm looking for 
 #### 🎯 My tech stack 
 * HTML, CSS, SCSS
 * JavaScript (ECMAScript 6)
-* React, Redux
+* TypeScript
+* React, Redux, Redux Toolkit
 * Webpack
 * Bootstrap
 * npm, Node.js
-* Linux (Ubuntu), Git 
+* Linux (Ubuntu), Git
+* Jest
 
 #### 📫 How to contact me
 Send email to n.d.niki2012@gmail.com or n.d.niki@yandex.ru
