@@ -9,12 +9,14 @@ I studied programming on the "Hexlet" educational platform. Now I'm looking for 
 * I like fantasy books, horror movies and visiting museums.
 
 #### 🎯 My tech stack 
-* HTML, CSS, SCSS
-* JavaScript (ECMAScript 6)
+* JavaScript (ECMAScript 6+)
 * TypeScript
 * React, Redux, Redux Toolkit
-* Webpack
+* HTML, CSS, SCSS
 * Bootstrap
+
+And also:
+* Webpack/Vite
 * npm, Node.js
 * Linux (Ubuntu), Git
 * Jest
@@ -22,7 +24,7 @@ I studied programming on the "Hexlet" educational platform. Now I'm looking for 
 #### 📫 How to contact me
 Send email to n.d.niki2012@gmail.com or n.d.niki@yandex.ru
 
-Write me to [Telegram](https://t.me/nadezhda_nikitina97)
+Write me to [Telegram](https://t.me/nnadya97)
 
 <!--
 **Nadezhda-97/Nadezhda-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
